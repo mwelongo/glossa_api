@@ -10,4 +10,4 @@ class Lesson(models.Model):
     lesson_title = models.CharField(max_length=300)
     lesson_subtitle = models.CharField(max_length=300)
     lesson_notes = models.CharField(max_length=3200)
-    lesson_image = models.CharField(max_length=200)
+    lesson_image = models.CharField(max_length=300)
