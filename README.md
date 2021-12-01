@@ -10,5 +10,10 @@ Glossa App - a web app that users can use to create, edit, and teach courses onl
 * For each module, user will be able to add, edit, and delete lessons. User will be able to create multiple lessons for each module
 * For each lesson, user will be able to add lecture notes, images, and quizzes
 
+## Important Links
+* [Heroku Frontend](#)
+* [Heroku Backend API](https://glossa-api.herokuapp.com/api/lessons)
+<!-- Personal note: superuser: mwelongo, kigoma21 -->
+
 ## Wireframes
 ![Wireframes](https://i.imgur.com/xsFwJdu.png)
