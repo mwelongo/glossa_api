@@ -13,7 +13,6 @@ Glossa App - a web app that users can use to create, edit, and teach courses onl
 ## Important Links
 * [Heroku Frontend](#)
 * [Heroku Backend API](https://glossa-api.herokuapp.com/api/lessons)
-<!-- Personal note: superuser: mwelongo, kigoma21 -->
 
 ## Wireframes
 ![Wireframes](https://i.imgur.com/xsFwJdu.png)
